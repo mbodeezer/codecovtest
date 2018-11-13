@@ -6,6 +6,6 @@ public class KotlinClassTest {
 
     @Test
     public void test() {
-        new KotlinDataClass(3);
+        new KotlinDataClass(3).add();
     }
 }
